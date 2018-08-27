@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hack_1</string>
+    <string name="phno"> ENTER PHONE NUMBER </string>
+    <string name="title"> MOBILE NUMBER VERIFICATION</string>
+    <string name="contcod"> India (+91)</string>
+    <string name="ok"> GET OTP</string>
+    <string name="otp"> PHONE NUMBER VERIFICATION </string>
+    <string name="box"> enter OTP</string>
+</resources>
